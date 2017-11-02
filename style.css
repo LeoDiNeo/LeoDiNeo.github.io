@@ -23,6 +23,7 @@ h1 { font-family:Palatino,'Palatino Linotype', serif; font-size:64px; color: bla
 
 h2 { color: black; 
 text-align: center;
+font-size : 30px
 }
 
 .page-description {
@@ -31,13 +32,17 @@ text-align: center;
 padding: 30px;}
 
 
-.Work-1 {
+h3 {
   
   text-align: center;
 border-bottom: 1px solid
+
 }
 
-
+.education { font-size :18px
+  
+  
+}
 
 
 
