@@ -1,30 +1,32 @@
 body { 
   background-image: url('https://orig00.deviantart.net/01e7/f/2007/344/b/f/blue_stream_by_dimage.jpg')
- 
+
+}
+
+.sub-titles {
+  font-weight:50;
+  color:black;
+  text-align: center;
 }
 
 
-
-
 .page-title {
- 
   font-weight: 100; 
 color: black;
-  border: 1px solid black;
+border: 1px solid black;
+text-align: center;
 }
 
 
 
 h1 { font-family:Palatino,'Palatino Linotype', serif; font-size:64px; color: black;}
 
-h2 { color: black; }
+h2 { color: black; 
+text-align: center;
+}
 
-
-
-
-
-
-
-
-
+.page-description {
+  border: 10px solid #000;
+  text-align: center;
+padding: 30px;}
 
