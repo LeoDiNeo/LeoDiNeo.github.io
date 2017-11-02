@@ -9,6 +9,8 @@ body {
 .page-title {
  
   font-weight: 100; 
+color: black;
+  border: 1px solid black;
 }
 
 
